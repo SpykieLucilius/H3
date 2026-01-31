@@ -106,7 +106,7 @@ We can see that there's something that says that this  as been packed by UPX :
 
 ![alt text](image-6.png)
 
-after a quick look on [UPX](![[Pasted image 20260131205912.png]]), I've seen that we can decompress the program with upx -d "FILE".
+after a quick look on [UPX](https://upx.github.io/), I've seen that we can decompress the program with upx -d "FILE".
 so i tried : 
 
 ![alt text](image-7.png)
